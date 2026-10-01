@@ -4,9 +4,7 @@ AI-powered resume screening system using Sentence-Transformers &amp; FAISS. Rank
 
 > An AI-powered resume screening and candidate matching system that goes beyond keyword search.
 
-[![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
-[![FAISS](https://img.shields.io/badge/VectorDB-FAISS-green.svg)](https://github.com/facebookresearch/faiss)
-[![Sentence-Transformer](https://img.shields.io/badge/Embeddings-all--MiniLM--L6--v2-orange.svg)](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
+
 
 ### 📌 Problem Statement
 Traditional recruitment is manual and time-consuming. Keyword-based ATS often misses semantically relevant candidates.
